@@ -11,3 +11,6 @@ wheels/
 
 # uv (choix perso)
 uv.lock
+
+# data source
+data/

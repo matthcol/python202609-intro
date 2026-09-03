@@ -39,4 +39,6 @@ uv init
 uv run python coucou.py
 uv add jupyterlab
 uv add numpy matplotlib
+uv add pandas
+uv add pydantic
 ```

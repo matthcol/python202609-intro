@@ -1,0 +1,11 @@
+[project]
+name = "stage20260903-intro"
+version = "0.1.0"
+description = "Introduction à Python en un jour"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+]

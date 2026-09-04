@@ -6,5 +6,6 @@ class Voiture(BaseModel):
     modele: str
     couleur: str
     km: int
+    chevaux: int
 
 
